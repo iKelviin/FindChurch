@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - API", "1 - API", "{0B71CC54-4254-4473-B42C-6959EA4CB2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindChurch.API", "Backend\FindChurch.API\FindChurch.API.csproj", "{16163595-9E27-4583-920C-FFEAE8706CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindChurch.Core", "Backend\FindChurch.Core\FindChurch.Core.csproj", "{C56DD5CB-F4F4-4572-A8E6-8EC4373D155A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindChurch.Application", "Backend\FindChurch.Application\FindChurch.Application.csproj", "{C8F5364D-4F51-4C52-B149-7B238671EB4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindChurch.Infrastructure", "Backend\FindChurch.Infrastructure\FindChurch.Infrastructure.csproj", "{09CFF710-D67C-4A0B-887A-0707FF3A022E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindChurch.Tests", "Backend\FindChurch.Tests\FindChurch.Tests.csproj", "{62D9B514-5CEF-4333-B9FF-3A526AA1F317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16163595-9E27-4583-920C-FFEAE8706CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16163595-9E27-4583-920C-FFEAE8706CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16163595-9E27-4583-920C-FFEAE8706CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16163595-9E27-4583-920C-FFEAE8706CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C56DD5CB-F4F4-4572-A8E6-8EC4373D155A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56DD5CB-F4F4-4572-A8E6-8EC4373D155A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56DD5CB-F4F4-4572-A8E6-8EC4373D155A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56DD5CB-F4F4-4572-A8E6-8EC4373D155A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F5364D-4F51-4C52-B149-7B238671EB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F5364D-4F51-4C52-B149-7B238671EB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F5364D-4F51-4C52-B149-7B238671EB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F5364D-4F51-4C52-B149-7B238671EB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CFF710-D67C-4A0B-887A-0707FF3A022E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CFF710-D67C-4A0B-887A-0707FF3A022E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CFF710-D67C-4A0B-887A-0707FF3A022E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CFF710-D67C-4A0B-887A-0707FF3A022E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D9B514-5CEF-4333-B9FF-3A526AA1F317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D9B514-5CEF-4333-B9FF-3A526AA1F317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D9B514-5CEF-4333-B9FF-3A526AA1F317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D9B514-5CEF-4333-B9FF-3A526AA1F317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16163595-9E27-4583-920C-FFEAE8706CFA} = {0B71CC54-4254-4473-B42C-6959EA4CB2E8}
+		{C56DD5CB-F4F4-4572-A8E6-8EC4373D155A} = {0B71CC54-4254-4473-B42C-6959EA4CB2E8}
+		{C8F5364D-4F51-4C52-B149-7B238671EB4E} = {0B71CC54-4254-4473-B42C-6959EA4CB2E8}
+		{09CFF710-D67C-4A0B-887A-0707FF3A022E} = {0B71CC54-4254-4473-B42C-6959EA4CB2E8}
+		{62D9B514-5CEF-4333-B9FF-3A526AA1F317} = {0B71CC54-4254-4473-B42C-6959EA4CB2E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992CB45B-82AE-4675-A3CE-7908AB0FDD53}
+	EndGlobalSection
+EndGlobal

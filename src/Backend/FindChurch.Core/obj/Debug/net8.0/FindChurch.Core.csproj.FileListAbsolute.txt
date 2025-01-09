@@ -1,0 +1,13 @@
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\bin\Debug\net8.0\FindChurch.Core.deps.json
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\bin\Debug\net8.0\FindChurch.Core.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\bin\Debug\net8.0\FindChurch.Core.pdb
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\obj\Debug\net8.0\FindChurch.Core.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\obj\Debug\net8.0\FindChurch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\obj\Debug\net8.0\FindChurch.Core.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\obj\Debug\net8.0\FindChurch.Core.AssemblyInfo.cs
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\obj\Debug\net8.0\FindChurch.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\obj\Debug\net8.0\EFCoreNpgsqlNetTopologySuite.cs
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\obj\Debug\net8.0\FindChurch.Core.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\obj\Debug\net8.0\refint\FindChurch.Core.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\obj\Debug\net8.0\FindChurch.Core.pdb
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Core\obj\Debug\net8.0\ref\FindChurch.Core.dll

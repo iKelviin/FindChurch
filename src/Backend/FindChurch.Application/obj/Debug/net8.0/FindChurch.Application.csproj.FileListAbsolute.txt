@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\bin\Debug\net8.0\FindChurch.Application.deps.json
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\bin\Debug\net8.0\FindChurch.Application.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\bin\Debug\net8.0\FindChurch.Application.pdb
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\obj\Debug\net8.0\FindChurch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\obj\Debug\net8.0\FindChurch.Application.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\obj\Debug\net8.0\FindChurch.Application.AssemblyInfo.cs
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\obj\Debug\net8.0\FindChurch.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\obj\Debug\net8.0\FindChurch.Application.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\obj\Debug\net8.0\refint\FindChurch.Application.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\obj\Debug\net8.0\FindChurch.Application.pdb
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\obj\Debug\net8.0\ref\FindChurch.Application.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\bin\Debug\net8.0\FindChurch.Core.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\bin\Debug\net8.0\FindChurch.Core.pdb
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\obj\Debug\net8.0\FindChurch.Application.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Application\obj\Debug\net8.0\FindChur.36CF1EA3.Up2Date

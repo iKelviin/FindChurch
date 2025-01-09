@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "N0Gv4VJB+EKMoE96L1qQKZ+0ODIwoBn6Xragt8FFKIs=",
+  "Source": "FindChurch.API",
+  "BasePath": "_content/FindChurch.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

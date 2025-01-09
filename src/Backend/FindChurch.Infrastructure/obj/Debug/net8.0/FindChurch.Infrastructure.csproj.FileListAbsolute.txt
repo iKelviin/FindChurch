@@ -1,0 +1,16 @@
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\bin\Debug\net8.0\FindChurch.Infrastructure.deps.json
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\bin\Debug\net8.0\FindChurch.Infrastructure.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\bin\Debug\net8.0\FindChurch.Infrastructure.pdb
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\bin\Debug\net8.0\FindChurch.Core.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\bin\Debug\net8.0\FindChurch.Core.pdb
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\FindChurch.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\FindChurch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\FindChurch.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\FindChurch.Infrastructure.AssemblyInfo.cs
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\FindChurch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\EFCoreNpgsqlNetTopologySuite.cs
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\FindChur.9A46144A.Up2Date
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\FindChurch.Infrastructure.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\refint\FindChurch.Infrastructure.dll
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\FindChurch.Infrastructure.pdb
+C:\Users\Kelvin\Documents\GitHub\FindChurch\FindChurch\Backend\FindChurch.Infrastructure\obj\Debug\net8.0\ref\FindChurch.Infrastructure.dll
